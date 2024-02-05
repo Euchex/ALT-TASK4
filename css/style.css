@@ -13,6 +13,8 @@ body {
 #img {
     margin-left: 155px;
     margin-top: -10px;
+    height: 80px;
+    width: 120px;
 }
 
 .header {
