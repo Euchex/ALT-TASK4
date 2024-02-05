@@ -82,5 +82,8 @@ h3 {
 }
 
 ul {
-    
+    font-weight: bolder;
+    font-size: 14px;
+    padding: 10px;
+    padding-left: 30px;
 }
